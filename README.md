@@ -12,9 +12,8 @@
 
 **[View Live Dashboard on Tableau Public →](https://public.tableau.com/views/Perth-Suburb-Investment-Analysis/PerthInvestmentDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-Dashboard Preview 
+![Dashboard](images/Perth_Investment_Dashboard.png)
 
-<img width="1471" height="799" alt="Perth_Investment_Dashboard" src="https://github.com/user-attachments/assets/ff101066-5a5c-4e0c-8a33-2f39610199e1" />
 
 
 ---
