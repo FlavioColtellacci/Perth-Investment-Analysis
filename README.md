@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Interactive Dashboard
+## Interactive Dashboard
 
 **[View Live Dashboard on Tableau Public →](https://public.tableau.com/views/Perth-Suburb-Investment-Analysis/PerthInvestmentDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
@@ -19,7 +19,7 @@ Dashboard Preview
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Property investors and homebuyers struggle to identify Perth suburbs that offer:
 - Strong capital growth potential
@@ -31,9 +31,9 @@ This project analyzes **36 Perth suburbs** across multiple investment metrics to
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
-### 💡 Top Investment Insights:
+### Top Investment Insights:
 
 1. **Outer suburbs dominate top opportunities** (8 of top 10)
    - Average investment score: 8.2/10
@@ -59,7 +59,7 @@ This project analyzes **36 Perth suburbs** across multiple investment metrics to
 
 ---
 
-## 🛠️ Tech Stack & Skills Demonstrated
+## Tech Stack & Skills Demonstrated
 
 ### Tools Used:
 - **Python** - Data generation and processing
@@ -80,7 +80,7 @@ This project analyzes **36 Perth suburbs** across multiple investment metrics to
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 Perth-Investment-Analysis/
 ├── data/                    # Raw and processed datasets
@@ -92,7 +92,7 @@ Perth-Investment-Analysis/
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 **Primary Dataset:** Synthetic data based on Perth real estate market patterns (2024)
 - 36 suburbs analyzed
@@ -114,7 +114,7 @@ Perth-Investment-Analysis/
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Data Collection & Generation
 - Created realistic Perth suburb dataset using Python
@@ -144,7 +144,7 @@ Created composite score (0-10) based on:
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### Interactive Elements:
 - **Zone Filter** - Focus on specific Perth regions
@@ -159,7 +159,7 @@ Created composite score (0-10) based on:
 
 ---
 
-## 💼 Business Value
+## Business Value
 
 This analysis helps:
 - **Property Investors** - Identify high-ROI opportunities
@@ -175,7 +175,7 @@ This analysis helps:
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 ### View the Dashboard:
 1. **[Open Tableau Public Dashboard](https://public.tableau.com/views/Perth-Suburb-Investment-Analysis/PerthInvestmentDashboard)**
@@ -191,7 +191,7 @@ This analysis helps:
 
 ---
 
-## 📝 Key SQL Queries
+## Key SQL Queries
 
 ### Top 10 Investment Suburbs:
 ```sql
@@ -211,7 +211,7 @@ LIMIT 10;
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I developed:
 - Advanced SQL querying skills (aggregations, filtering, sorting)
