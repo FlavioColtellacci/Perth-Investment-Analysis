@@ -207,7 +207,7 @@ ORDER BY investment_score DESC
 LIMIT 10;
 ```
 
-**[View all SQL queries →](code/sql_queries.sql)**
+**[View all SQL queries →](sql_queries.sql)**
 
 ---
 
